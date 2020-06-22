@@ -53,6 +53,8 @@ call doge#buffer#register_doc_standard('google', [
 \      '# \t!var-name',
 \      '# Arguments:',
 \      '# \t$1: !description',
+\      '# Outputs:',
+\      '# \t!description',
 \      '# Returns:',
 \      '# \t!description',
 \      '################################################################################',
